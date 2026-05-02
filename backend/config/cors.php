@@ -9,9 +9,8 @@ return [
     'allowed_methods' => ['*'],
 
     'allowed_origins' => [
-    'https://ref-demo-saas.up.railway.app',
-],
-    ]))),
+        'https://ref-demo-saas.up.railway.app',
+    ],
 
     'allowed_origins_patterns' => [],
 
