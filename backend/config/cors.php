@@ -8,9 +8,9 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => array_values(array_unique(array_filter([
-        $frontend,
-        'http://127.0.0.1:3000',
+    'allowed_origins' => [
+    'https://ref-demo-saas.up.railway.app',
+],
     ]))),
 
     'allowed_origins_patterns' => [],
