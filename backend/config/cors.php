@@ -11,7 +11,6 @@ return [
     'allowed_origins' => [
     'https://ref-demo-saas.up.railway.app',
 ],
-    ]))),
 
     'allowed_origins_patterns' => [],
 
